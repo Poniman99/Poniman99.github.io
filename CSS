@@ -2,3 +2,8 @@ body
 {
 font-family: Roboto, Helvetica, sans-serif;
 }
+
+title {
+  font-size: 70px;
+  color: blue;
+}
